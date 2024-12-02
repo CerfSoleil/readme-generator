@@ -31,8 +31,8 @@ export const questions = [
     },{
         type: 'confirm',
         name: 'documentation',
-        message: colors.blue('Are you using github wiki for documentation?\n'),
-        default: true
+        message: colors.blue('Please insert a link to your project repo here.\n'),
+        default: 'Place your project repo link here.'
     },{
         type: 'input',
         name: 'installation',
