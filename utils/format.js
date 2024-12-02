@@ -17,7 +17,7 @@ export const formatEntry = ({ name, email, gitHubName, repo, summary, documentat
   ## Usage\n
   ${usage}\n\n
   ## Documentation\n
-  ${documentation}\n\n
+  the repo can be found here: ${documentation}\n\n
   ## Contributing\n
   ${contribution}\n\n
   ## Credits\n
