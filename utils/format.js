@@ -24,7 +24,7 @@ export const formatEntry = ({ name, email, gitHubName, repo, summary, documentat
   ${credits}\n
   A link to the repositiory: ${repo}\n\n
   ## License\n
-  This project uses the ${license} license.\n\n\n
+  This project uses a ${license} license.\n\n\n
 
   ## Questions\n
 If you have any questions, please feel free to contact me at ${email}. You can also find my GitHub here: [${gitHubName}](https://github.com/${gitHubName}).
