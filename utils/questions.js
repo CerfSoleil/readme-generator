@@ -29,7 +29,7 @@ export const questions = [
         message: colors.blue('Describe your project in a few sentences.\n'),
         default: 'Fill this with information about your project.'
     },{
-        type: 'confirm',
+        type: 'input',
         name: 'documentation',
         message: colors.blue('Please insert a link to your project repo here.\n'),
         default: 'Place your project repo link here.'
