@@ -29,12 +29,12 @@
 
   ## Usage
 
-  Run using node.js. After answering the questions, it will export to the exports file.
+  Run using node.js. After answering the questions, it will place the readme in the exports file.
 
 
   ## Documentation
 
-  true
+  You can find documentation at the repo [Readme Generator](https://github.com/CerfSoleil/readme-generator)
 
 
   ## Contributing
@@ -44,7 +44,9 @@
 
   ## Credits
 
-  Keanu Reeves
+  [Latisha McNeel](https://github.com/lmcneel) for providing the training needed to get me this far.
+
+  [lukas-h](https://gist.github.com/lukas-h) for [Markdown Badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
   A link to the repositiory: https://github.com/CerfSoleil/readme-generator
 
