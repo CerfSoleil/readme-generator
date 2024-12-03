@@ -49,7 +49,7 @@ export const questions = [
     },{
         type: 'input',
         name: 'credits',
-        message: colors.blue('List any collaborators and credit major packages:\n'),
+        message: colors.blue('List collaborators, major software, or those that helped:\n'),
         default: 'Thank those that has helped you, in code or in spirit.'
     }, {
         type: 'list',
