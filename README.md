@@ -30,6 +30,9 @@
   ## Usage
 
   Run using node.js. After answering the questions, it will place the readme in the exports file.
+  
+https://github.com/user-attachments/assets/6476b0df-2140-449a-86c7-ccad1b9a6f4b
+
 
 
   ## Documentation
